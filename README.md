@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashutoshc770@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14YTd0jxAcoEodVIvNyZp-j7TMFQyQCLf/view?usp=sharing](https://drive.google.com/file/d/14YTd0jxAcoEodVIvNyZp-j7TMFQyQCLf/view?usp=sharing)
+- 📄 Know about my experiences [Click Here..](https://drive.google.com/file/d/1nFe_0O_Ziks9i5vS6jPtft-UQqglYxKm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
