@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh770" alt="ashutosh770" /></a> </p>
 
-- 🔭 I’m currently working on **Groc.ji**
+- 🔭 I’m currently working on **Chargeup Live Project**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ashutoshc770@gmail.com**
 
