@@ -7,7 +7,7 @@ AI & Full Stack Developer | React • Node.js • FastAPI • PostgreSQL | Build
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashutosh770&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://drive.google.com/file/d/1r7LThBEuwdA2w-gzhwLlCk6mfBBDSeVS/view?usp=sharing" alt="Profile Views"/>
 </p>
 
 ---
