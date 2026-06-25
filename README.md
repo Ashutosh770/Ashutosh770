@@ -1,129 +1,146 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+# [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+
 <h1 align="center">Hi 👋, I'm Ashutosh Chaurasia</h1>
-<h3 align="center">Full‑Stack (Web + Mobile) Developer | AI/ML Enthusiast | Building scalable products</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh770&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh770" /> </p>
+<h3 align="center">
+AI & Full Stack Developer | React • Node.js • FastAPI • PostgreSQL | Building AI-Powered Applications
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh770" alt="ashutosh770" /></a> </p>
-
-- 🔭 I’m currently working on **Chargeup (Live Project)** — building **full‑stack + mobile apps**
-
-- 🤖 I’m exploring **AI/ML** (model training, data prep, and deploying inference into apps)
-
-- 🌱 Currently learning: **Machine Learning / AI**, **backend & system design**
-
-- 💬 Ask me about **Flutter, React, Node.js, Firebase, MongoDB, MySQL**
-
-- 📫 How to reach me: **ashutoshc770@gmail.com**
-
-- 📄 Know about my experiences: [Resume / CV](https://drive.google.com/file/d/1nFe_0O_Ziks9i5vS6jPtft-UQqglYxKm/view?usp=sharing)
-
-<h3 align="left">AI / ML Focus:</h3>
-
-- ✅ Learning & building in: **Supervised learning**, **classification/regression**, **model evaluation**, **feature engineering**
-- 🧠 Interested in: **NLP**, **Computer Vision**, and **LLM‑powered apps**
-- 🚀 Goal: ship ML features end‑to‑end (data → training → API/inference → product)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-chaurasia-a9289b202" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/ashutoshc770" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ashutoshc770" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/ashutoshc770/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashutosh770&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🚀 About Me
+
+* 💼 AI & Full Stack Developer at **Kendriya Vidyalaya Sangathan (KVS HQ), New Delhi**
+* 🔭 Currently building **AI-powered platforms, analytics dashboards, and scalable backend systems**
+* 🤖 Working with **LLMs, NLP, Sentence Transformers, FastAPI, and AI Workflows**
+* 🌱 Currently learning **System Design, AI Agents, RAG, MLOps, and Distributed Systems**
+* 💬 Ask me about **React, TypeScript, Node.js, FastAPI, PostgreSQL, MongoDB, Python, Docker**
+* ⚡ Competitive Programmer
+* 📫 Reach me at **[ashutoshc770@gmail.com](mailto:ashutoshc770@gmail.com)**
+
+---
+
+## 🧠 AI & ML Interests
+
+* 🤖 Large Language Models (LLMs)
+* 🧠 Natural Language Processing (NLP)
+* 🚀 Retrieval-Augmented Generation (RAG)
+* 🔍 Sentence Transformers & Embeddings
+* ⚡ FastAPI for AI Services
+* 📊 Machine Learning
+* ☁️ Deploying AI Applications
+
+---
+
+## 🚀 Current Projects
+
+### 🎓 KVS AI
+
+AI-powered student analytics platform using NLP, Sentence Transformers, and FastAPI.
+
+### ⚡ ChargeUp
+
+Full Stack application built with React, Node.js, PostgreSQL, and TypeScript.
+
+### 📅 Weekend Planner
+
+Scalable backend using FastAPI, Prisma, and PostgreSQL.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/ashutosh-chaurasia-a9289b202">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+<a href="https://leetcode.com/u/ashutoshc770/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<a href="https://codeforces.com/profile/ashutoshc770">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.codechef.com/users/ashutoshc770">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/>
 </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-</a>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh770&show_icons=true&locale=en&layout=compact" alt="ashutosh770" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh770&show_icons=true&locale=en" alt="ashutosh770" /></p>
+# 💻 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh770&" alt="ashutosh770" /></p>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,prisma" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Sentence Transformers
+* Hugging Face
+* Ollama
+* Scikit-learn
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh770&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh770&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh770&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Competitive Programming
+
+* ⭐ CodeChef 2★
+* 📈 Codeforces Pupil
+* 💡 Passionate about Data Structures, Algorithms, and System Design
+
+---
+
+## 💡 Interests
+
+* Artificial Intelligence
+* Backend Engineering
+* Distributed Systems
+* Scalable APIs
+* System Design
+* Open Source
+* Competitive Programming
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
