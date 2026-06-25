@@ -38,17 +38,41 @@ AI & Full Stack Developer | React • Node.js • FastAPI • PostgreSQL | Build
 
 ## 🚀 Current Projects
 
-### 🎓 KVS AI
+### 🏫 KVS (Kendriya Vidyalaya Sangathan)
 
-AI-powered student analytics platform using NLP, Sentence Transformers, and FastAPI.
+Comprehensive platform for educational management and student analytics at KVS HQ, New Delhi.
 
-### ⚡ ChargeUp
+**Tech Stack:** React • Node.js • PostgreSQL • TypeScript
 
-Full Stack application built with React, Node.js, PostgreSQL, and TypeScript.
+### 🤖 KVS AI
 
-### 📅 Weekend Planner
+AI-powered student analytics platform leveraging advanced NLP, Sentence Transformers, and FastAPI for intelligent insights and personalized learning recommendations.
 
-Scalable backend using FastAPI, Prisma, and PostgreSQL.
+**Tech Stack:** FastAPI • Python • NLP • Sentence Transformers • AI Workflows
+
+### 💼 Jobingen
+
+Job platform application designed to connect candidates with opportunities through intelligent matching and personalized recommendations.
+
+**Tech Stack:** React • Node.js • PostgreSQL • TypeScript
+
+### ❄️ Freezy
+
+Full-stack application for seamless user experience with modern architecture and optimized performance.
+
+**Tech Stack:** React • Node.js • PostgreSQL • TypeScript
+
+### 📅 Weekend Backend
+
+Scalable backend system for weekend planning and event management with robust API architecture.
+
+**Tech Stack:** FastAPI • Prisma • PostgreSQL • Python
+
+### 👨‍👩‍👧 MyMomDad
+
+Personal project focused on family management and memories, building connections through technology.
+
+**Tech Stack:** React • Node.js • PostgreSQL • MongoDB
 
 ---
 
